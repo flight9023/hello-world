@@ -1,0 +1,3 @@
+extern volatile UART1_TX_BUFFER_OBJECT gsTxBufferObject;
+extern volatile UART1_RX_BUFFER_OBJECT gsRxBufferObject;
+extern volatile UART1_HEX_BUFFER_OBJECT gsHexBufferObject;
